@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CPSC329Project/static/css/main.047ac6d7.css",
+    "main.js": "/CPSC329Project/static/js/main.64d6f9b5.js",
+    "index.html": "/CPSC329Project/index.html",
+    "main.047ac6d7.css.map": "/CPSC329Project/static/css/main.047ac6d7.css.map",
+    "main.64d6f9b5.js.map": "/CPSC329Project/static/js/main.64d6f9b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.047ac6d7.css",
+    "static/js/main.64d6f9b5.js"
+  ]
+}
