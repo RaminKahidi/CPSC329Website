@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.main-container {
+  background-color: #282c34;
+  color: white;
+}
+
+.inner-container {
+}
+
+.game-container {
+  /* background-color: #444444; */
+  padding: 1% 1%;
+  box-shadow: 0 0 15px #232323;
+  /* margin: 1% 5%; */
+  margin-top: 20px;
+  max-height: 100vw;
+  height: 100vh;
+
+  /* height: 100%; */
+}
