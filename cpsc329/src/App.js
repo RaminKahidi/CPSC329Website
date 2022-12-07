@@ -12,7 +12,12 @@ function App() {
       <Navbar />
       <div className="container inner-container">
         <h1>The Cyber Agent</h1>
-        <h3>Play as a secret agent tasked with .... idk the story lol. </h3>
+        <h3>
+          Play as a secret agent with a mission to protect classified
+          information using secure cyber strategies! The goal of our game is to
+          introduce and encourage the use of internet safety measures for young
+          adolescents starting to use the internet.{" "}
+        </h3>
         <br></br>
         <div className="game-container">
           <iframe
@@ -29,6 +34,7 @@ function App() {
           >
             <p>There seems to have been an issue loading the game!</p>
           </iframe>
+          <p>The following resources were used to build </p>
         </div>
       </div>
       <Footer />
