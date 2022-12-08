@@ -34,8 +34,21 @@ function App() {
           >
             <p>There seems to have been an issue loading the game!</p>
           </iframe>
-          <p>The following resources were used to build </p>
         </div>
+      </div>
+      <div className="container inner-container">
+        <br></br>
+        <br></br>
+        <p>
+          The following resources were used to build the game:<br></br> Scam
+          audio call recording was from:
+          https://www.youtube.com/watch?v=YTmsiBZxV2M <br></br> The real audio
+          recording was from: https://www.youtube.com/watch?v=JOhlRCxtNtA{" "}
+          <br></br> The images used in game are from:
+          https://lornn.itch.io/cyberpunk-backgrounds<br></br>
+          The background music is from:
+          https://www.youtube.com/watch?v=XAYhNHhxN0A
+        </p>
       </div>
       <Footer />
     </div>

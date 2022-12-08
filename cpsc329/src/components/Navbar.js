@@ -3,7 +3,7 @@ import React from "react";
 function navbar() {
   return (
     <nav className="nav">
-      <a href="/" className="title">
+      <a href="" className="title">
         CPSC329
       </a>
       {/* <ul>
